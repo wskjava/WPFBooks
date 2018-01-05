@@ -1,0 +1,8 @@
+E:\workspaces\WPFBooks\WPFBooksDemo\WPFBooksDemo\bin\Debug\WPFBooksDemo.exe
+E:\workspaces\WPFBooks\WPFBooksDemo\WPFBooksDemo\bin\Debug\WPFBooksDemo.pdb
+E:\workspaces\WPFBooks\WPFBooksDemo\WPFBooksDemo\obj\Debug\WPFBooksDemo.csprojResolveAssemblyReference.cache
+E:\workspaces\WPFBooks\WPFBooksDemo\WPFBooksDemo\obj\Debug\WPFBooksDemo.Properties.Resources.resources
+E:\workspaces\WPFBooks\WPFBooksDemo\WPFBooksDemo\obj\Debug\WPFBooksDemo.csproj.GenerateResource.Cache
+E:\workspaces\WPFBooks\WPFBooksDemo\WPFBooksDemo\obj\Debug\WPFBooksDemo.csproj.CoreCompileInputs.cache
+E:\workspaces\WPFBooks\WPFBooksDemo\WPFBooksDemo\obj\Debug\WPFBooksDemo.exe
+E:\workspaces\WPFBooks\WPFBooksDemo\WPFBooksDemo\obj\Debug\WPFBooksDemo.pdb
